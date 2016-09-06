@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quadratic Equation</string>
+    <string name="x_quadForm">x = ( -b ± √(b²-4ac)) / 2a</string>
+    <string name="xAns">x = ???</string>
+    <string name="error_toast">This app does not support imaginary numbers!</string>
+    <string name="toast">Ding!  We have an answer!</string>
+</resources>
